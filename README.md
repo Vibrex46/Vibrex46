@@ -20,11 +20,6 @@ I like projects where the interesting part isn't simply writing code, but unders
 🧪 Testing, debugging and reproducing difficult problems
 📚 Constantly learning new systems and technologies
 🌐 Open to interesting open-source projects
-
-<br>
-
-<p align="left"> <a href="https://github.com/Vibrex46"> <img src="https://img.shields.io/badge/GitHub-Vibrex46-181717?style=flat-square&logo=github" alt="GitHub"> </a> </p>
-
 <br>
 
 🧠 What I Like Building
