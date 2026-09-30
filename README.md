@@ -7,8 +7,9 @@
   <a href="https://github.com/Vibrex46?tab=repositories">
     <img src="https://img.shields.io/github/stars/Vibrex46?label=Stars&style=flat-square" alt="GitHub Stars">
   </a>
-  <img src="https://count.getloli.com/@Vibrex46?name=Vibrex46&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vibrex46.Vibrex46&style=flat-square" alt="Profile Views">
 </p>
+
 
 
 <br>
