@@ -78,16 +78,6 @@ Reliable Software
 
 <br>
 
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vibrex46&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vibrex46 GitHub Stats"> </p>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibrex46&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"> </p>
-
-<br>
-
-<br>
-
 <p align="left"> <a href="https://github.com/Vibrex46"> <img src="https://img.shields.io/badge/GitHub-Vibrex46-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 
 <br>
