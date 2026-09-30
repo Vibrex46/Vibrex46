@@ -1,6 +1,15 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you. </h1>
 
-<p align="left"> <a href="https://github.com/Vibrex46"> <img src="https://img.shields.io/github/followers/Vibrex46?label=Followers&style=flat-square" alt="GitHub Followers"> </a> <a href="https://github.com/Vibrex46?tab=repositories"> <img src="https://img.shields.io/github/stars/Vibrex46?label=Stars&style=flat-square" alt="GitHub Stars"> </a> <a href="https://github.com/Vibrex46"> <img src="https://komarev.com/ghpvc/?username=Vibrex46&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"> </a> </p>
+<p align="left">
+  <a href="https://github.com/Vibrex46">
+    <img src="https://img.shields.io/github/followers/Vibrex46?label=Followers&style=flat-square" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Vibrex46?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Vibrex46?label=Stars&style=flat-square" alt="GitHub Stars">
+  </a>
+  <img src="https://count.getloli.com/@Vibrex46?name=Vibrex46&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views">
+</p>
+
 
 <br>
 
