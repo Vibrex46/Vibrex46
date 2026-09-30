@@ -78,29 +78,13 @@ Reliable Software
 
 <br>
 
-📈 GitHub Stats
-
-<details> <summary>Click to expand</summary>
-
-<br>
+📊 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vibrex46&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vibrex46 GitHub Stats"> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vibrex46&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"> </p>
 
-</details>
-
 <br>
-
-📌 Featured Repositories
-
-<p align="center">
-
-<a href="https://github.com/Vibrex46"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vibrex46&repo=YOUR_REPOSITORY_1&theme=github_dark&hide_border=true" alt="Featured Repository"> </a>
-
-<a href="https://github.com/Vibrex46"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vibrex46&repo=YOUR_REPOSITORY_2&theme=github_dark&hide_border=true" alt="Featured Repository"> </a>
-
-</p>
 
 <br>
 
